@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalc.Core", "TipCalc.core\TipCalc.Core.csproj", "{53A03339-7305-4C16-9751-C4FF75FFD775}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalc.Forms.UI", "TipCalc.Forms.UI\TipCalc.Forms.UI.csproj", "{F8B21A17-0E2C-440C-92A3-B5914EB2DC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.Forms.Droid", "TipCalc.Forms.Droid\TipCalc.Forms.Droid.csproj", "{CAD93346-3272-4CBE-9610-7F66BACC1F8D}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalc.Droid", "TipCalc.Droid\TipCalc.Droid.csproj", "{FBE98343-BBA8-4B94-BE02-BB1487D2C82E}"
 EndProject
 Global
@@ -17,6 +21,16 @@ Global
 		{53A03339-7305-4C16-9751-C4FF75FFD775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A03339-7305-4C16-9751-C4FF75FFD775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A03339-7305-4C16-9751-C4FF75FFD775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B21A17-0E2C-440C-92A3-B5914EB2DC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B21A17-0E2C-440C-92A3-B5914EB2DC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B21A17-0E2C-440C-92A3-B5914EB2DC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B21A17-0E2C-440C-92A3-B5914EB2DC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD93346-3272-4CBE-9610-7F66BACC1F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD93346-3272-4CBE-9610-7F66BACC1F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD93346-3272-4CBE-9610-7F66BACC1F8D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CAD93346-3272-4CBE-9610-7F66BACC1F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD93346-3272-4CBE-9610-7F66BACC1F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD93346-3272-4CBE-9610-7F66BACC1F8D}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{FBE98343-BBA8-4B94-BE02-BB1487D2C82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FBE98343-BBA8-4B94-BE02-BB1487D2C82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE98343-BBA8-4B94-BE02-BB1487D2C82E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
